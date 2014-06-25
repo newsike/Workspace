@@ -1,0 +1,22 @@
+﻿<root>
+  <session name="mainform" type="form">
+    <item name="tamplatepage" type="templatepageconfig">
+      <item page="sumain.html"></item>         
+    </item>
+    <item name="mainform" type="childform" css="" formimage="url(Images/Forms/Login.fw.png)" width="1000" height="900" positionX="0" positionY="0" isCenter="1" isMiddle="0" isTemplater="inspriation-aolm-default.html" isCheckLogined="0" CheckURL="">
+      <item name="login_txt_username" control="Textbox" width="270" height="20" positionX="295" positionY="445" bordrtwidth="0" bordercolor="" css="BorderCss_NonBoder" label="" isTemplater="inspriation-aolm-default.html"></item>
+      <item name="login_pwd_userpwd" maxlength="20" control="Password" width="270" height="20" positionX="657" positionY="445" bordrtwidth="0" bordercolor="" css="BorderCss_NonBoder" label="" isTemplater="inspriation-aolm-default.html"></item>
+      <item name="login_txt_keycode" control="Textbox" width="270" height="20" positionX="295" positionY="515" bordrtwidth="0" bordercolor="" css="BorderCss_NonBoder" label="" isTemplater="inspriation-aolm-default.html"></item>
+      <item name="logic_lnk_newaccount"   positionX="770" positionY="570" css="FontCss_MainLinkLabel" label="Create a new account!" control="linklabel" actionurl="inspriation-aolm-createnewaccount.html" isTemplater="inspriation-aolm-default.html"></item>      
+      <item name="logic_btn_login" control="button" width="200" height="30" positionX="750" positionY="600" bordrtwidth="1" bordercolor="black" css="" label="Login To Inspriation Online" isTemplater="inspriation-aolm-default.html"></item>
+    </item>
+    <item name="mainform" type="childform" css="" formimage="url(Images/Forms/CreateNewAccount.fw.png)" width="1000" height="900" positionX="0" positionY="0" isCenter="1" isMiddle="0" isTemplater="inspriation-aolm-createnewaccount.html" isCheckLogined="0" CheckURL="">
+      <item name="reg_txt_regcode" control="Textbox" width="430" height="20" positionX="166" positionY="250" bordrtwidth="0" bordercolor="" css="BorderCss_NonBoder" label="" isTemplater="inspriation-aolm-createnewaccount.html"></item>
+      <item name="reg_txt_username" control="Textbox" width="450" height="20" positionX="146" positionY="315" bordrtwidth="0" bordercolor="" css="BorderCss_NonBoder" label="" isTemplater="inspriation-aolm-createnewaccount.html"></item>
+      <item name="reg_pwd_userpwd" maxlength="20" control="Password" width="270" height="20" positionX="129" positionY="381" bordrtwidth="0" bordercolor="" css="BorderCss_NonBoder" label="" isTemplater="inspriation-aolm-createnewaccount.html"></item>
+      <item name="reg_txt_optionalkey" control="Textbox" width="450" height="20" positionX="145" positionY="449" bordrtwidth="0" bordercolor="" css="BorderCss_NonBoder" label="" isTemplater="inspriation-aolm-createnewaccount.html"></item>
+      <item name="reg_lnk_default"   positionX="743" positionY="643" css="FontCss_MainLinkLabel" label="Return to Login Form." control="linklabel" actionurl="inspriation-aolm-default.html" isTemplater="inspriation-aolm-createnewaccount.html"></item>
+      <item name="reg_btn_create" control="button" width="300" height="20" positionX="95" positionY="643" bordrtwidth="1" bordercolor="black" css="" label="Create a new account for inspriation" isTemplater="inspriation-aolm-createnewaccount.html"></item>
+    </item>
+  </session>
+</root>

@@ -1,0 +1,11 @@
+C:\Users\SIKE\SkyDrive\文档\Inspriation\Apis\Inspriation.OpenAPI\bin\Inspriation.OpenAPI.dll
+C:\Users\SIKE\SkyDrive\文档\Inspriation\Apis\Inspriation.OpenAPI\bin\Inspriation.OpenAPI.pdb
+C:\Users\SIKE\SkyDrive\文档\Inspriation\Apis\Inspriation.OpenAPI\bin\Inspriation.SecurityContextKit.dll
+C:\Users\SIKE\SkyDrive\文档\Inspriation\Apis\Inspriation.OpenAPI\bin\Inspriation.SecurityContextKit.pdb
+C:\Users\SIKE\SkyDrive\文档\Inspriation\Apis\Inspriation.OpenAPI\obj\Debug\Inspriation.OpenAPI.csprojResolveAssemblyReference.cache
+C:\Users\SIKE\SkyDrive\文档\Inspriation\Apis\Inspriation.OpenAPI\obj\Debug\Inspriation.OpenAPI.dll
+C:\Users\SIKE\SkyDrive\文档\Inspriation\Apis\Inspriation.OpenAPI\obj\Debug\Inspriation.OpenAPI.pdb
+C:\Users\SIKE\SkyDrive\文档\Inspriation\Apis\Inspriation.OpenAPI\bin\Inspriation.Lib.dll
+C:\Users\SIKE\SkyDrive\文档\Inspriation\Apis\Inspriation.OpenAPI\bin\Inspriation.LibAPISKit.dll
+C:\Users\SIKE\SkyDrive\文档\Inspriation\Apis\Inspriation.OpenAPI\bin\Inspriation.LibAPISKit.pdb
+C:\Users\SIKE\SkyDrive\文档\Inspriation\Apis\Inspriation.OpenAPI\bin\Inspriation.Lib.pdb

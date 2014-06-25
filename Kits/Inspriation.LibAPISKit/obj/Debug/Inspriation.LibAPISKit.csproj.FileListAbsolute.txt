@@ -1,0 +1,11 @@
+C:\Users\schen2\SkyDrive\文档\Inspriation\Kits\Inspriation.LibAPISKit\obj\Debug\ResolveAssemblyReference.cache
+D:\SkyDriver\SkyDrive\文档\Inspriation\Kits\Inspriation.LibAPISKit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SIKE\SkyDrive\文档\Inspriation\Kits\Inspriation.LibAPISKit\bin\Debug\Inspriation.LibAPISKit.dll
+C:\Users\SIKE\SkyDrive\文档\Inspriation\Kits\Inspriation.LibAPISKit\bin\Debug\Inspriation.LibAPISKit.pdb
+C:\Users\SIKE\SkyDrive\文档\Inspriation\Kits\Inspriation.LibAPISKit\bin\Debug\Inspriation.Lib.dll
+C:\Users\SIKE\SkyDrive\文档\Inspriation\Kits\Inspriation.LibAPISKit\bin\Debug\Inspriation.Lib.pdb
+C:\Users\SIKE\SkyDrive\文档\Inspriation\Kits\Inspriation.LibAPISKit\obj\Debug\Inspriation.LibAPISKit.csprojResolveAssemblyReference.cache
+C:\Users\SIKE\SkyDrive\文档\Inspriation\Kits\Inspriation.LibAPISKit\obj\Debug\Inspriation.LibAPISKit.dll
+C:\Users\SIKE\SkyDrive\文档\Inspriation\Kits\Inspriation.LibAPISKit\obj\Debug\Inspriation.LibAPISKit.pdb
+C:\Users\SIKE\SkyDrive\文档\Inspriation\Kits\Inspriation.LibAPISKit\bin\Debug\Inspriation.SecurityContextKit.dll
+C:\Users\SIKE\SkyDrive\文档\Inspriation\Kits\Inspriation.LibAPISKit\bin\Debug\Inspriation.SecurityContextKit.pdb

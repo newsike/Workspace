@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Inspriation.OpenAPI.OpenAPI_GetToken" CodeBehind="OpenAPI_GetToken.svc.cs" %>
